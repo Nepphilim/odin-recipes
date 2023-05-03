@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+h2 {
+    text-align: center;
+}
+p.description {
+    border: 1px solid black;
+    padding: 10px;
+    width: 489px;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
